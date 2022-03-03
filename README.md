@@ -1,0 +1,1 @@
+First HTML project made to practice basic HTML syntax.
